@@ -73,8 +73,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milad15A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="137" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milad15A&radius=100&theme=dracula&area=true&order=5" height="140" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milad15A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milad15A&radius=250&theme=dracula&area=true&order=5&hide_title=false" height="120" alt="activity-graph graph"  />
 </div>
 
 ###
