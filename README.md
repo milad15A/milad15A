@@ -45,6 +45,10 @@
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
   <img width="9" />
   <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="30" alt="pandas logo"  />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge" height="30" alt="sql server logo" />
+  <img width="9" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo" />
+
 </div>
 
 ###
@@ -59,6 +63,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
+  
 </div>
 
 ###
@@ -75,9 +80,10 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milad15A&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="120" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Milad15A&radius=250&theme=dracula&area=true&order=5&hide_title=false" height="120" alt="activity-graph graph"  />
+<div align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Milad15A&theme=dracula" height="120" />
+  <img src="https://streak-stats.demolab.com?user=Milad15A&theme=dracula&hide_border=false" height="120" />
 </div>
+
 
 ###
